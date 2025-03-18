@@ -1,19 +1,31 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
+#
+- type: facebook
+  icon: "fa-brands fa-facebook"
+  url: 'https://www.facebook.com/people/Simples-Inform%C3%A1tica-e-Consultoria-Ltda/100066360412880/'
+# 
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: 'https://www.instagram.com/simples.informatica/'
+#
+- type: whatsapp
+  icon: "fa-brands fa-whatsapp"
+  url: 'https://api.whatsapp.com/send?phone=5586981417162&text=Ol%C3%A1%20%5BNome%20e%20Munic%C3%ADpio%5D,%20preciso%20de%20ajuda%20com%20%5Bdescri%C3%A7%C3%A3o%20breve%20do%20problema%5D.%20Voc%C3%AAs%20poderiam%20me%20orientar%20sobre%20como%20resolver%20ou%20indicar%20o%20setor%20respons%C3%A1vel?%20Agrade%C3%A7o%20desde%20j%C3%A1%20pela%20aten%C3%A7%C3%A3o!%22'
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
