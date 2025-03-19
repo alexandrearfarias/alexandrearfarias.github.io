@@ -13,3 +13,11 @@
     border-bottom: 1px solid #4CAF50;
     text-decoration: none;
 }
+
+.btn-outline-primary {
+  --bs-btn-hover-bg: #4CAF50;
+}
+
+.btn.btn-outline-primary:not(.disabled):hover {
+  border-color: #4CAF50 !important;
+}
