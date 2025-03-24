@@ -4,6 +4,7 @@ date: 2025-03-19
 categories: [SCP, Tutoriais]
 tags: [scp, tutoriais]
 permalink: /SCP/teclas-atalhos
+parent: SCP
 ---
 
 ![Tela de Consulta - SCP](/assets/img/scp/Tela_de_Consulta_-_SCP.png)
