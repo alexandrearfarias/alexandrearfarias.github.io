@@ -21,3 +21,9 @@
 .btn.btn-outline-primary:not(.disabled):hover {
   border-color: #4CAF50 !important;
 }
+
+@media all {
+  :root {
+    --toc-highlight: #198754 !important; // Sobrescreve o valor globalmente
+  }
+}
