@@ -1,10 +1,10 @@
 ---
-title: STM - Solicitando Novo Acesso.
-date: 2025-03-19 16:00
-categories: [STM, Tutoriais]
-tags: [stm, tutoriais]
-permalink: /STM/novoAcesso
-parent: STM
+title: STMWEB - Solicitando Novo Acesso.
+date: 2025-03-26 16:00
+categories: [STMWEB, Tutoriais]
+tags: [stmweb, tutoriais]
+permalink: /STMWEB/novoAcesso
+parent: STMWEB
 ---
 
 # Solicitação de Novo Acesso
@@ -67,4 +67,4 @@ Para retornos negativos, você será notificado de que sua solicitação não fo
 ## Dúvidas
 Se precisar de ajuda, entre em contato com o suporte clicando [aqui!](https://api.whatsapp.com/send?phone=5586981417162&text=Ol%C3%A1%20%5BNome%20e%20Munic%C3%ADpio%5D,%20preciso%20de%20ajuda%20com%20%5Bdescri%C3%A7%C3%A3o%20breve%20do%20problema%5D.%20Voc%C3%AAs%20poderiam%20me%20orientar%20sobre%20como%20resolver%20ou%20indicar%20o%20setor%20respons%C3%A1vel?)
 
-[Voltar para a sessão principal.](/STM)
+[Voltar para a sessão principal.](/STMWEB)

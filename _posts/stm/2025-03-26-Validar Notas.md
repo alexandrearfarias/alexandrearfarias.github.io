@@ -1,10 +1,10 @@
 ---
-title: STM - Validar Notas Fiscais.
-date: 2025-03-19 16:22
-categories: [STM, Tutoriais]
-tags: [stm, tutoriais]
-permalink: /STM/validarNota
-parent: STM
+title: STMWEB - Validar Notas Fiscais.
+date: 2025-03-26 16:22
+categories: [STMWEB, Tutoriais]
+tags: [stmweb, tutoriais]
+permalink: /STMWEB/validarNota
+parent: STMWEB
 ---
 
 # Validando Notas Fiscais Eletrônicas  
@@ -35,4 +35,4 @@ _Nota Fiscal emitida_
 ## Dúvidas  
 Caso tenha alguma dúvida mais específica, entre em contato com nosso suporte [clicando aqui!](https://api.whatsapp.com/send?phone=5586981417162&text=Ol%C3%A1%20%5BNome%20e%20Munic%C3%ADpio%5D,%20preciso%20de%20ajuda%20com%20%5Bdescri%C3%A7%C3%A3o%20breve%20do%20problema%5D.%20Voc%C3%AAs%20poderiam%20me%20orientar%20sobre%20como%20resolver%20ou%20indicar%20o%20setor%20respons%C3%A1vel?%20Agrade%C3%A7o%20desde%20j%C3%A1%20pela%20aten%C3%A7%C3%A3o!%22)  
 
-[Voltar para sessão principal](/STM)
+[Voltar para sessão principal](/STMWEB)
