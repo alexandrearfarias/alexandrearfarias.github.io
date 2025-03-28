@@ -29,6 +29,46 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
+## Instalando ambiente
+
+Primeiramente va até a página do [rubyInstaller](https://rubyinstaller.org/downloads/) e instale o Ruby+DevKit usando alguns dos instaladores fornecido pelo site.
+
+> Ao abrir o instaldor e utilizar as configurações padrão, marque o ```Execute ridk install``` para instalar as gems com extensões nativas sem nenhum problema. Durante a instalação via prompt, apenas aperte enter que ele vai instalar tudo necessário.
+
+Após instalar o ruby, verifique se ele está corretamente configurado:
+
+* Abra o prompt de comando pelo iniciar na barra de tarefas e digite o comando:
+```cmd
+ruby -g
+gem -v
+```
+
+* Em seguida instale o jekyll na sua máquina ainda no diretório do menu iniciar e confira se foi tudo instalado corretamente
+```cmd
+gem install jekyll bundler
+jekyll -v
+```
+
+* Navegue até o diretório do projeto que você trouxe do github e execute dentro do prompt o comando:
+```cmd
+bundle install
+```
+
+Ele vai instalar todas as depêdencias do projeto. Você pode verificar as dependências intaladas pelo arquivo ```Gemfile.lock```.
+
+* Traga os conteúdos de estilo do submodulo do tem chirpy
+```cmd
+git submodule init
+git submodule update
+```
+
+Para executar o servidor local e visualizar as alterações feitas no projeto, inicie o servidor local com o comando:
+```cmd
+bundle exec jekyll s
+```
+
+```bundle exec``` é um prefixo para os comandos dentro do jekyll.
+
 ## Contributing
 
 This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
