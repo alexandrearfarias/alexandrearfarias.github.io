@@ -56,7 +56,7 @@ bundle install
 
 Ele vai instalar todas as depêdencias do projeto. Você pode verificar as dependências intaladas pelo arquivo ```Gemfile.lock```.
 
-* Traga os conteúdos de estilo do submodulo do tem chirpy
+* Traga os conteúdos de estilo do submodulo do tema chirpy
 ```cmd
 git submodule init
 git submodule update
