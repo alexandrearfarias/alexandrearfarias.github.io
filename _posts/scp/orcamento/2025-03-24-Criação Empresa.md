@@ -61,3 +61,7 @@ Após clicar, uma janela será exibida para você digitar o **ano da empresa** d
 ![Tela - Digitar Ano da Empresa](/assets/img/scp/orcamento/criar-empresa5.png)
 
 Digite o ano e o sistema exibirá a lista de empresas cadastradas para aquele ano.
+
+[Voltar para a sessão pricnipal.](/SCP)
+
+[Voltar para a sessão de Orçamento.](/SCP/Orcamento)

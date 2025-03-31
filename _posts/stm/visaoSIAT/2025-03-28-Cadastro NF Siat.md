@@ -1,8 +1,8 @@
 ---
-title: STMWEB - Alterando Cadastro no Sistema.
+title: STMWEB - Criando uma Nota Fiscal Eletrônica.
 date: 2025-03-19 14:30
 categories: [STMWEB, Tutoriais]
-tags: [tutoriais, siat]
+tags: [tutoriais, stmweb, siat]
 permalink: /STMWEB/cadastroNFsiat
 parent: visaoSiat
 ---

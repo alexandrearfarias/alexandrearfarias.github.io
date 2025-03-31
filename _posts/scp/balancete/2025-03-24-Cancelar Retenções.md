@@ -33,3 +33,7 @@ Ao incluir um novo registro, defina:
 Também é possível inserir informações da **Base Legal**, ou seja, a legislação que fundamenta o cancelamento ou parcelamento realizado.
 
 ![Base Legal - Cancelamento de Retenção](/assets/img/scp/balancetes/cancel-retencoes3.png)
+
+[Voltar para a sessão principal.](/SCP)
+
+[Voltar para a sessão de Balancetes.](/SCP/Balancetes)

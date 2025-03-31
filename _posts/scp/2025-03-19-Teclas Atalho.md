@@ -31,3 +31,5 @@ Se a tabela estiver exibindo a quantidade de registros, tecle **Alt + F3** para 
 ![Busca Ativa - Etapa 2](/assets/img/scp/busca_ativa_scp_ligada.png)
 
 A palavra **_Procura_** será exibida. Assim, você já pode pesquisar digitando qualquer palavra na tela de consulta.
+
+[Voltar para sessão anterior.](/SCP)

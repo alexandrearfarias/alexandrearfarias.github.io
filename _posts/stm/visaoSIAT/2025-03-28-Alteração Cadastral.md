@@ -2,7 +2,7 @@
 title: STMWEB - Alterando Cadastro no Sistema.
 date: 2025-03-28 14:30
 categories: [STMWEB, Tutoriais]
-tags: [tutoriais, stmweb]
+tags: [tutoriais, stmweb, siat]
 permalink: /STMWEB/alteracaoCadastral
 parent: visaoSiat
 ---
@@ -30,6 +30,6 @@ Os campos disponíveis para alteração em Pessoa Jurídica são os mesmos da Pe
 
 ## Dúvidas
 
-Se tiver alguma dúvida, entre em contato com o suporte clicando [aqui!](https://api.whatsapp.com/send?phone=5586981417162&text=Ol%C3%A1%20%5BNome%20e%20Munic%C3%ADpio%5D,%20preciso%20de%20ajuda%20com%20%5Bdescri%C3%A7%C3%A3o%20breve%20do%20problema%5D.%20Voc%C3%AAs%20poderiam%20me%20orientar%20sobre%20como%20resolver%20ou%20indicar%20o%20setor%20respons%C3%A1vel?%20Agrade%C3%A7o%20desde%20j%C3%A1%20pela%20aten%C3%A7%C3%A3o!)
+Se tiver alguma dúvida, entre em contato com o suporte clicando <a src="https://api.whatsapp.com/send?phone=5586981417162&text=Ol%C3%A1%20%5BNome%20e%20Munic%C3%ADpio%5D,%20preciso%20de%20ajuda%20com%20%5Bdescri%C3%A7%C3%A3o%20breve%20do%20problema%5D.%20Voc%C3%AAs%20poderiam%20me%20orientar%20sobre%20como%20resolver%20ou%20indicar%20o%20setor%20respons%C3%A1vel?%20Agrade%C3%A7o%20desde%20j%C3%A1%20pela%20aten%C3%A7%C3%A3o!" target="_blank">aqui!</a>
 
 [Voltar para a sessão anterior](/STM/visaoSiat)

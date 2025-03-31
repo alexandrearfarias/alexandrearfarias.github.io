@@ -107,3 +107,7 @@ Acesse o menu:
 ---
 
 Pronto! O processo de incorporação foi concluído com sucesso.
+
+[Voltar para a sessão principal.](/SCP)
+
+[Voltar para a sessão de Balancetes.](/SCP/Balancetes)

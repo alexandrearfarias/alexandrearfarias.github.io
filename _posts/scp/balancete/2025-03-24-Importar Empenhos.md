@@ -115,3 +115,7 @@ Retorne ao sistema SCP e acesse:
 ✅ Esse processo **finaliza a integração**, permitindo gerar os empenhos da folha no sistema contábil.
 
 > **Importante:** Execute esse passo **somente após a finalização da Folha de Pagamento no SFP**.
+
+[Voltar para a sessão principal.](/SCP)
+
+[Voltar para a sessão de Balancetes.](/SCP/Balancetes)

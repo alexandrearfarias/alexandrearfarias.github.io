@@ -17,3 +17,6 @@ Na contabilidade pública, um **balancete** é um relatório contábil que forne
 - [Cancelamento / Transferências de Retenções](/SCP/Balancetes/cancelamento-retencoes)
 - [Importar Empenhos do sistema de Folha de Pagamento (SFP)](/SCP/Balancetes/importar-empenhos)
 - [Exportar/Importar Balancetes para incorporação de Câmara e RPPS](/SCP/Balancetes/exportar-balancetes)
+
+
+[Voltar para a sessão anterior.](/SCP)

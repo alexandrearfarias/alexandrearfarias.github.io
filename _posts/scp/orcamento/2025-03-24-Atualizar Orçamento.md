@@ -39,3 +39,7 @@ Você pode pressionar a tecla **"I" (Imprimir)** para gerar um **relatório em P
 
 ✅ **Pronto! O orçamento foi atualizado com sucesso.**  
 Agora, se houverem **avisos ou erros**, verifique-os para realizar os ajustes necessários.
+
+[Voltar para a sessão principal.](/SCP)
+
+[Voltar para a sessão de Orçamento.](/SCP/Orcamento)

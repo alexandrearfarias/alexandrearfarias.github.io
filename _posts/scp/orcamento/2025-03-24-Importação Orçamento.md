@@ -57,3 +57,7 @@ Pronto!
 Agora os dados de **Receita e Despesa do Orçamento** foram importados para o novo exercício.
 
 > ✅ **Dica:** Após essa etapa, também é recomendável [importar o Plano de Contas (PCASP)](Importacao-do-Plano-de-Contas-PCASP.md) para o exercício atual.
+
+[Voltar para a sessão principal.](/SCP) 
+
+[Voltar para a sessão de Orçamento.](/SCP/Orcamento)

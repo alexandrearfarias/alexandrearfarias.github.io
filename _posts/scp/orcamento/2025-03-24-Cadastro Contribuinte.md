@@ -62,3 +62,7 @@ Para **filtrar um registro**, tecle **F** e selecione o campo desejado.
 
 **2.3** Para **editar um registro**, tecle **M (Modificar)**.  
 Se o registro puder ser editado, o **cursor será ativado** nos campos modificáveis.
+
+[Voltar para a sessão principal.](/SCP)
+
+[Voltar para a sessão de Orçamento.](/SCP/Orcamento)
